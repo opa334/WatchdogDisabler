@@ -1,0 +1,9 @@
+Package: com.opa334.watchdogdisabler
+Name: WatchdogDisabler
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disables app launch watchdog timeouts
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
